@@ -1,4 +1,4 @@
-Thrustmaster T.flight rudder pedal(TFRP) logger
+<h1>Thrustmaster T.flight rudder pedal(TFRP) logger</h1>
 
 Environment: Ubuntu 18.04
 
